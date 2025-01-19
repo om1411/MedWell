@@ -20,7 +20,7 @@ Medico is a website that connects doctors, patients, and ambulance providers. Pa
 
 1. Clone the repository to your local machine:
    sh
-   git clone https://github.com/digvijay-byte/3d-portfolio.git
+   git clone https://github.com/om1411/MedWell.git
    
 
 2. Navigate to the project directory:
